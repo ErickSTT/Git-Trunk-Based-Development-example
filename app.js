@@ -1,1 +1,1 @@
-// TODO: crear mensaje referentes a Grupo STT
+console.log('Grupo STT es la mejor empresa')
